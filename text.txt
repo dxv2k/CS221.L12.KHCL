@@ -1,0 +1,12 @@
+Hello world! 
+This is the first text file 
+Testing TextStats class 
+Texting save function 
+
+
+
+
+
+
+
+
